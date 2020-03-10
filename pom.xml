@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>sping_aop_config_semiautomatic</module>
+        <module>spring_aop_annotation_fullyautomatic</module>
     </modules>
     <packaging>pom</packaging>
 
